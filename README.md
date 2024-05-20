@@ -10,12 +10,8 @@
 <p align="center"><a href="https://t.me/jarvis2O"><img src="https://telegra.ph/file/20d1bcedcf901bed9bf65.jpg" width="600"></a></p>
 
 # 𝐃𝐄𝐏𝐋𝐎𝐘𝐄𝐌𝐄𝐍𝐓✨🦋
-<details>
-<summary><b>ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ</b></summary>
-<br>
-<p align="center"><a href="http://dashboard.heroku.com/new?template=https://github.com/doraemon890/COPYRIGHT-PROTECTOR"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-pink?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
-</details>
-
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Ytrolex07/NKD_music-Bot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-bringle?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Ytrolex07/NKD-COPYRIGHT-PROTECTOR"> <img src="https://graph.org/file/7758e15f135e166b8637d.jpg" width="520" height="198.45"/></a></p>
 
 # 𝐂𝐎𝐍𝐓𝐀𝐂𝐓 💗🥀
 <a href="https://t.me/jarvis2O"><img title="Telegram" src="https://img.shields.io/badge/JARVIS-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
